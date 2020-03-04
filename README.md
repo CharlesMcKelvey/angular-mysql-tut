@@ -1,3 +1,7 @@
+## What am I?
+
+This is a tutorial that I found here (https://developer.okta.com/blog/2019/08/16/angular-mysql-express) that seemed like something I should follow along with to learn more about MySQL and backends when using Angular, as I want to become more Fullstack. 
+
 # AngularMysqlTut
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
@@ -25,3 +29,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
